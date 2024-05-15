@@ -5,7 +5,7 @@ Team ID: ENTS-H113
 
 Project Name: BinaBola
 
-## Fitmate 
+## BinaBola 
 
 
 Theme             : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
