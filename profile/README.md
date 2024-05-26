@@ -30,3 +30,10 @@ We are seeking funding to develop and launch this application. We believe that t
 | C117D4KY0805 | Farhan Al Farisi | Cloud Computing | 	Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-al-farisi-744499196/) |
 | C117D4KY0310 | Qays Arkan Chairy |  Cloud Computing | Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaysarkan/) |
 
+## Web Profile
+
+## Screenshot
+
+## Video demo
+
+## Download Our Apps
