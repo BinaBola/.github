@@ -41,7 +41,7 @@ We are seeking funding to develop and launch this application. We believe that t
 ![AI Food](https://ik.imagekit.io/RifqiLukmansyah/Layout%2011.png?updatedAt=1718954901278)
 
 ## Video demo
-
+https://youtu.be/DB-Bh4RS6TI
 ## Download Our Apps
 You can download it here:  https://drive.google.com/file/d/1to_KXrkL6D1x5WOe_PSmEZ3j-3MnBnPJ/view?usp=sharing
 
