@@ -30,9 +30,13 @@ We are seeking funding to develop and launch this application. We believe that t
 | C117D4KY0805 | Farhan Al Farisi | Cloud Computing | 	Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-al-farisi-744499196/) |
 | C117D4KY0310 | Qays Arkan Chairy |  Cloud Computing | Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaysarkan/) |
 
-## Web Profile
 
 ## Screenshot
+![BinaBola SS](https://ik.imagekit.io/RifqiLukmansyah/Layout%208.png?updatedAt=1718953499808)
+![Onboarding](https://ik.imagekit.io/RifqiLukmansyah/Layout%202.png?updatedAt=1718954762717)
+![Authentication](https://ik.imagekit.io/RifqiLukmansyah/Layout%209.png?updatedAt=1718954804250)
+![Exercise](https://ik.imagekit.io/RifqiLukmansyah/Layout%2010.png?updatedAt=1718954861875)
+![AI Food](https://ik.imagekit.io/RifqiLukmansyah/Layout%2011.png?updatedAt=1718954901278)
 
 ## Video demo
 
