@@ -6,7 +6,7 @@ Team ID: ENTS-H113
 Project Name: BinaBola
 
 ## BinaBola 
-
+![ BinaBola Cover](https://ik.imagekit.io/RifqiLukmansyah/Copy%20of%20Entrepreneur%20BINABOLA.png?updatedAt=1718953299275)
 
 Theme             : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
