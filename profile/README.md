@@ -18,7 +18,7 @@ We are seeking funding to develop and launch this application. We believe that t
 
 
 ## Team Member 
-![ BinaBola Cover](https://ik.imagekit.io/RifqiLukmansyah/Untitled%20design%20(13).png?updatedAt=1718955616228)
+![ BinaBola Cover](https://ik.imagekit.io/RifqiLukmansyah/Copy%20of%20Entrepreneur%20BINABOLA.png?updatedAt=1718953299275)
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
