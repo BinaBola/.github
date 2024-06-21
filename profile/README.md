@@ -6,7 +6,7 @@ Team ID: ENTS-H113
 Project Name: BinaBola
 
 ## BinaBola 
-
+![logo](https://ik.imagekit.io/RifqiLukmansyah/Logo_BinaBola.svg?updatedAt=1718955489636)
 Theme             : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 The quality of local Indonesian football players needs to be improved to compete with naturalized players and other top global players. Many talented young Indonesian football players do not reach their full potential. This is due to a number of factors, including a lack of access to quality personalized physical training, as well as an unhealthy lifestyle.
