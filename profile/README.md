@@ -43,7 +43,7 @@ We are seeking funding to develop and launch this application. We believe that t
 ## Video demo
 
 ## Download Our Apps
-You can download it here:  https://drive.google.com/drive/folders/1NVlo_-6OOzHgQy-CN42sRwvM3IlTyHkF?usp=sharing
+You can download it here:  https://drive.google.com/file/d/1to_KXrkL6D1x5WOe_PSmEZ3j-3MnBnPJ/view?usp=sharing
 
 If when installed apk show error "App not installed" , make sure that your device does not block installing apk from outside the playtore or the install from uknown source setting must be allowed and make sure when download not corrupted .  
 
